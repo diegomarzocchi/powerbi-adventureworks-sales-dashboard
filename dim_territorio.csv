@@ -1,0 +1,12 @@
+id_territorio;desc_region;desc_pais;desc_continente
+1;Noroeste;Estados Unidos;Norte América
+2;Northeast;Estados Unidos;Norte América
+3;Central;Estados Unidos;Norte América
+4;Suroeste;Estados Unidos;Norte América
+5;Southeast;Estados Unidos;Norte América
+6;Canada;Canada;Norte América
+7;Francia;Francia;Europa
+8;Alemania;Alemania;Europa
+9;Australia;Australia;Oceanía
+10;Reino Unido;Reino Unido;Europa
+-1;DESCONOCIDO;DESCONOCIDO;DESCONOCIDO
